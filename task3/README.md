@@ -1,4 +1,4 @@
-#  Heart Disease Prediction using Machine Learning
+# Task.3: Heart Disease Prediction using Machine Learning
 
 This project predicts the likelihood of heart disease using a Logistic Regression model. It includes data preprocessing, exploratory data analysis (EDA), model training, and evaluation.
 ##  Project Workflow
