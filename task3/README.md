@@ -1,23 +1,23 @@
-# ❤️ Heart Disease Prediction using Machine Learning
+#  Heart Disease Prediction using Machine Learning
 
 This project predicts the likelihood of heart disease using a Logistic Regression model. It includes data preprocessing, exploratory data analysis (EDA), model training, and evaluation.
-## 📊 Project Workflow
+##  Project Workflow
 - Data Cleaning & Preprocessing  
 - Exploratory Data Analysis (EDA)  
 - Feature Scaling  
 - Logistic Regression Model Training  
 - Model Evaluation  
 ---
-## 🧠 Machine Learning Model
+##  Machine Learning Model
 - Algorithm: Logistic Regression  
 - Problem Type: Binary Classification  
----
-## 📈 Evaluation Metrics
+--
+## Evaluation Metrics
 - Accuracy Score  
 - ROC-AUC Score  
 - Confusion Matrix  
 ---
-## 📊 Visualizations
+##  Visualizations
 ### Age Distribution
 ![Age Distribution](age_distribution.png)
 
@@ -30,7 +30,7 @@ This project predicts the likelihood of heart disease using a Logistic Regressio
 ### Confusion Matrix
 ![Confusion Matrix](confusion_matrix.png)
 
-## 📂 Dataset
+##  Dataset
 
 Heart Disease dataset containing medical attributes such as:
 - Age  
@@ -38,13 +38,13 @@ Heart Disease dataset containing medical attributes such as:
 - Cholesterol  
 - Heart Rate  
 - Target (0 = No disease, 1 = Disease)  
-## 🚀 How to Run
+##  How to Run
 
 ```bash
 pip install -r requirements.txt
 python Task3_Heart_Disease_Prediction.py
 ---
-## 👨‍💻 Author
+##  Author
 
 **M Asim Imtiaz**  
 BS AI Student  
