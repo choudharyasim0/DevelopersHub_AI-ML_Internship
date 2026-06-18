@@ -1,2 +1,2 @@
-# AI-ML-Internship-tasks
+# DevelopersHub_AI-ML_Internship
 Internship task 
